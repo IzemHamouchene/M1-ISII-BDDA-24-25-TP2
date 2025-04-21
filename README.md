@@ -30,4 +30,4 @@ Write the following SQL queries to adjust the database:
  3. Display all Chercheur (NumCh, NomCh) of laboratoire that have CodeLab = 0001. Put your query into [_3_3_allChercheurs.sql_](3_3_allChercheurs.sql)
 
  
-  Check the Actions tab to see if you have completed the exercise successfully.
+**THIS TP DOESEN'T HAVE AUTOGRADER.**
