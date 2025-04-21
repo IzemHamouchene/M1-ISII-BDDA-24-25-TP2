@@ -3,7 +3,8 @@
     on:
       push:
         branches:
-        - '*'
+        #- '*'
+        - 'testBranch'
         
     jobs:
       build:
